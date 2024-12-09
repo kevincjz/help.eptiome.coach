@@ -80,7 +80,7 @@ const config = {
       image: "assets/Pintar-Logogram-Red-Cutout.png",
       colorMode: {
         defaultMode: "light",
-        disableSwitch: false,
+        disableSwitch: true,
       },
       tableOfContents: {
         minHeadingLevel: 2,
@@ -99,6 +99,11 @@ const config = {
             sidebarId: "enterprise",
             position: "left",
             label: "Enterprise",
+          },
+          {
+            label: "Pintar Website",
+            position: "right",
+            href: "https://pintar.co",
           },
           {
             type: "html",
@@ -190,7 +195,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} PT. PINTAR PEMENANG ASIA. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} PT. PINTAR PEMENANG ASIA.`,
       },
       prism: {
         theme: prismThemes.github,

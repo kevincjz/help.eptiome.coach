@@ -59,17 +59,3 @@
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
-
-.button-login:hover {
-  background-color: var(--ifm-color-primary-dark);
-}
-
-.button-login:active {
-  background-color: var(--ifm-color-primary-darker);
-}
-
-.button-login:disabled {
-  background-color: var(--ifm-color-primary-light);
-  cursor: not-allowed;
-  opacity: 0.6;
-}
