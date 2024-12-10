@@ -106,11 +106,16 @@ const config = {
             href: "https://pintar.co",
           },
           {
-            type: "html",
+            label: "Login",
             position: "right",
-            value:
-              "<a class='button-login' href='https://pintar.co/id/home/auth'>Login</>",
+            href: "https://pintar.co/id/home/auth",
           },
+          // {
+          //   type: "html",
+          //   position: "right",
+          //   value:
+          //     "<a class='button-login' href='https://pintar.co/id/home/auth'>Login</>",
+          // },
         ],
       },
       footer: {
