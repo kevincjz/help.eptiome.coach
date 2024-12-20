@@ -2,7 +2,7 @@
   "label": "Degree Student",
   "position": 4,
   "collapsible": true,
-  "collapsed": false,
+  "collapsed": true,
   "link": {
     "type": "generated-index",
     "description": "Documentation For Degree Student Sides"
