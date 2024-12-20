@@ -140,12 +140,6 @@ const config = {
             label: "Degree",
           },
           {
-            type: "docSidebar",
-            sidebarId: "lms",
-            position: "left",
-            label: "LMS",
-          },
-          {
             label: "Pintar Website",
             position: "right",
             href: "https://pintar.co",
