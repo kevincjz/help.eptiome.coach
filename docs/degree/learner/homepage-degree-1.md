@@ -1,5 +1,5 @@
 ---
-title: (UI Learner) Homepage Degree
+title: Homepage Degree
 sidebar_position: 10
 ---
 

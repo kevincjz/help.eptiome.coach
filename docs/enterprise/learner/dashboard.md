@@ -1,5 +1,5 @@
 ---
-title: (Learner) Dashboard
+title: Dashboard
 sidebar_position: 1
 ---
 
