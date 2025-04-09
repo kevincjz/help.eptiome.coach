@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "Live Session (Other)"
 sidebar_position: 46
 ---
+
 ![](/img/ls-other-skills_indo-1.png)
 
 Pada Live Session ini, Anda sebagai Instruktur dan seluruh peserta akan melaksanakan sesi langsung menggunakan platform seperti Zoom/Google Meet.
@@ -21,7 +22,7 @@ Apabila Anda sudah join menggunakan tombol Start Session, maka akan muncul tampi
 
 ![](/img/ls-other-skills_3.png)
 
-Untuk peserta yang hadir pada Live Session, secara otomatis statusnya akan menjadi **Present**. Sementara untuk peserta yang tidak hadir, instruktur dapat mengisi status peserta menjadi **Absence**. 
+Untuk peserta yang hadir pada Live Session, secara otomatis statusnya akan menjadi **Present**. Sementara untuk peserta yang tidak hadir, instruktur dapat mengisi status peserta menjadi **Absence**.
 
 Setelah tersisi semua absennya, klik **Save Change.**
 
