@@ -2,7 +2,7 @@
   "label": "Learner",
   "position": 3,
   "collapsible": true,
-  "collapsed": false,
+  "collapsed": true,
   "link": {
     "type": "generated-index",
     "description": "Documentation Learner Sides"
