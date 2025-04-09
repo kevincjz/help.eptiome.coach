@@ -139,6 +139,12 @@ const config = {
             label: "Degree",
           },
           {
+            type: "docSidebar",
+            sidebarId: "skills",
+            position: "left",
+            label: "Skills",
+          },
+          {
             label: "Pintar Website",
             position: "right",
             href: "https://pintar.co",
