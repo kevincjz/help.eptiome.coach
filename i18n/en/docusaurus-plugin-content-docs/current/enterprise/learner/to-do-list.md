@@ -2,40 +2,40 @@
 title: To-do List
 sidebar_position: 2
 ---
-Bagian ini berisi reminder kegiatan dan tugas-tugas yang harus dikerjakan. To-do List terdiri dari 3 bagian yaitu ; Tugas yang belum dikerjakan, Acara hari ini, dan Acara yang akan datang.
+This section contains reminders of activities and tasks that need to be done. The To-do List consists of 3 parts: Unfinished tasks, Today's events, and Upcoming events.
 
-#### 1. Tugas Yang Belum Dikerjakan
+#### 1. Unfinished Tasks
 
-Bagian ini beirisi informasi terkait tugas-tugas yang belum dan harus dikerjakan disertai batas waktu pengerjaan.
+This section contains information related to tasks that have not yet been done and need to be completed within a certain deadline.
 
 ![](/img/Enterprise-LMS-Dashboard_1.4.png)
 
-#### 2. Acara Hari Ini
+#### 2. Today's Events
 
-Bagian ini berisi informasi terkait Live Session atau kelas yang dilaksanakan pada hari Anda sedang mengakses LMS.
+This section contains information related to Live Sessions or classes that are being held on the day you are accessing the LMS.
 
 ![](/img/Enterprise-LMS-Dashboard_1.5.png)
 
-#### **3. Acara Akan Datang**
+#### **3. Upcoming Events**
 
-Bagian ini beirisi informasi terkait adanya Live session atau kelas yang akan dilaksanakan pada tanggal mendekati dari saat Anda sedang menggunakan LMS.
+This section contains information related to upcoming Live sessions or classes that will be held in the near future when you are using the LMS.
 
 ![](/img/Enterprise-LMS-Dashboard_1.6.png)
 
-#### Cara menampilkan To-do List secara keseluruhan :
+#### How to display the entire To-do List:
 
-1. Untuk menampilkan secara keseluruhan, Anda dapat klik button “Lihat Semua”
+1. To display the entire list, you can click the "View All" button
 
 ![](/img/to-do-list.jpg)
 
-2. Setelah klik button "Lihat Semua", maka akan muncul tampilan secara keseluruhan untuk Daftar Kegiatan seperti gambar berikut
+2. After clicking the "View All" button, the full view of the Activity List will appear as shown in the following image
 
 ![](/img/to-do-list-2.jpg)
 
-3. Klik kegiatan yang akan Anda laksanakan (*contoh : seperti gambar*)
+3. Click on the activity you will carry out (*example: as shown in the image*)
 
 ![](/img/to-do-list-3.jpg)
 
-4. Kemudian akan diarahkan pada kegiatan yang akan dilaksanakan (*seperti : Tugas/Ujian/Live Session*) yang terdapat pada To-do List
+4. Then you will be directed to the activity that will be carried out (*such as: Tasks/Exams/Live Sessions*) that are on the To-do List
 
 ![](/img/to-do-list-4.jpg)

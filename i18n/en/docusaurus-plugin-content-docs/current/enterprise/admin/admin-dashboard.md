@@ -3,49 +3,49 @@ title: Dashboard
 sidebar_position: 6
 ---
 
-Untuk Login ke Portal admin, lakukan cara berikut:
+To log in to the admin portal, follow these steps:
 
-1. Akses melalui URL: [https://portal.pintar.co/login](https://portal.pintar.co/login)
+1. Access via URL: [https://portal.pintar.co/login](https://portal.pintar.co/login)
 
-2. Masukan alamat email pada kolom Email.
+2. Enter your email address in the Email field.
 
-3. Masukan kata sandi pada kolom Password.
+3. Enter your password in the Password field.
 
-4. Klik tombol Sign In.
+4. Click the Sign In button.
 
 ![](/img/enterprise-admin-dashboard-1.png)
 
-Ketika sudah berhasil login, maka akan muncul tampilan Dashboard seperti di bawah ini:
+Once you have successfully logged in, the Dashboard view will appear as shown below:
 
 ![](/img/enterprise-admin-dashboard-2.png)
 
-Pada bagian paling atas ada title: Pintar Total Users artinya total user yang ada di Pintar dibagi 4 (empat) yaitu:
+At the very top there is a title: Pintar Total Users, which means the total users in Pintar divided into 4 (four) categories:
 
-1. Enrolled Learners : User yang menjadi pelajar
-2. Potential Learners : User yang terdaftar tetapi belum memiliki kursus
-3. Instructors            : User yang menjadi instruktur
-4. Admins                  : User yang menjadi admin
+1. Enrolled Learners: Users who are learners
+2. Potential Learners: Users who are registered but do not have a course yet
+3. Instructors: Users who are instructors
+4. Admins: Users who are admins
 
 ![](/img/enterprise-admin-dashboard-3.png)
 
-Pada bagian tengah ada title: **Completion Rate** dibagi 2 (dua) yaitu:
+In the middle section, there is a title: **Completion Rate** divided into 2 (two) categories:
 
-1.  Assigned Courses : kursus bersifat mandatory, kursus yang sudah di-assign user langsung
-2.  General Courses : kursus yang boleh diambil atau tidak oleh user
+1. Assigned Courses: mandatory courses, courses that have been directly assigned to users
+2. General Courses: courses that users may or may not take
 
 ![](/img/enterprise-admin-dashboard-4.png)
 
-Dalam tampilan ini ada diagram lingkaran akan muncul jumlah persentase dan jumlah user.
+In this view, a pie chart will appear showing the percentage and number of users.
 
-1. Completed : jumlah user yang sudah selesai
-2. In progress : jumlah user yang masih progress
-3. Not started yet : jumlah user yang belum mulai
-4. Expired : jumlah user yang expired
+1. Completed: number of users who have finished
+2. In progress: number of users who are still in progress
+3. Not started yet: number of users who have not started yet
+4. Expired: number of users who have expired
 
 ![](/img/enterprise-admin-dashboard-5.png)
 
-Pada bagian bawah ada title: **Internal Courses** terdiri dari **Course Name** yaitu nama kursus dan **Enrolled** yaitu jumlah user yang daftar dalam materi pelatihan tersebut.
+At the bottom, there is a title: **Internal Courses** consisting of **Course Name**, which is the name of the course, and **Enrolled**, which is the number of users who have registered for that training material.
 
 ![](/img/enterprise-admin-dashboard-6.png)
 
-Pada bagian paling bawah ada title: **Leaderboard** yaitu untuk melihat peringkat dari user pada _course_ tertentu.
+At the very bottom, there is a title: **Leaderboard** which is used to see the ranking of users in a particular course.

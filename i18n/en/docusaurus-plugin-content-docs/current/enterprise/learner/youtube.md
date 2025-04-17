@@ -4,20 +4,20 @@ sidebar_position: 23
 ---
 ![](/img/youtube-indo_1.png)
 
-Pada bagian ini berisi konten berupa Video dari Youtube. Anda juga dapat membuka video tersebut dari youtubenya langsung dengan cara klik Salin Link pada pojok kanan atas video tersebut *(seperti gambar)*.
+This section contains content in the form of Youtube videos. You can also open the video directly from Youtube by clicking Copy Link in the top right corner of the video *(as shown in the picture)*.
 
 ![](/img/youtube-indo_2.png)
 
-Anda juga dapat membuka tampilan video dengan cara full screen dan juga dapat mengatur speed/kecepatan video yang ditampilkan. 
+You can also open the video display in full screen and can adjust the speed of the video being displayed.
 
-**Kecepatan Video**
+**Video Speed**
 
-Fitur ini berguna untuk settingan kecepatan Video. Anda dapat mempercepat maupun memperlambat kecepatan video dengan fungsi fitur ini.
+This feature is useful for setting the speed of the Video. You can speed up or slow down the video speed with this feature.
 
 ![](/img/youtube-indo_3.png)
 
 **Full Screen**
 
-Fitur ini berguna untuk memperbesar layar video. Anda dapat lebih jelas melihat video dengan fungsi fitur ini.
+This feature is useful for enlarging the video screen. You can see the video more clearly with this feature.
 
 ![](/img/youtube-indo_4.png)

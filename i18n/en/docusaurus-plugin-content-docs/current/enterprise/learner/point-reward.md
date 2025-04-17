@@ -1,26 +1,26 @@
 ---
-title: Point & Reward
+title: Points & Rewards
 sidebar_position: 5
 ---
-Poin dan Reward merupakan fitur yang bertujuan untuk membuat pengguna lebih termotivasi untuk menyelesaikan aktivitas pembelajarannya. Berikut merupakan bagian-bagian dari fitur Poin dan Reward:
+Points and Rewards is a feature aimed at motivating users to complete their learning activities. Here are the parts of the Points and Rewards feature:
 
-#### **1. Poin**
+#### **1. Points**
 
-Untuk mengeksplorasi fitur Poin dan Reward, pengguna bisa masuk melalui ikon Poin yang bisa ditemukan ketika pengguna mengklik ikon profile. Lalu akan muncul tampilan seperti berikut.
+To explore the Points and Rewards feature, users can enter through the Points icon that can be found when the user clicks on the profile icon. Then a display like the following will appear.
 
 ![](/img/reward_1.1.png)
 
-#### **2. Reward**
+#### **2. Rewards**
 
-Setelah ikon Poin di klik akan diarahkan ke tampilan Reward seperti gambar di bawah ini.
+After clicking the Points icon, you will be directed to the Rewards display as shown in the image below.
 
 ![](/img/reward_1.2.png)
 
-1. **Reward Saya :** pada poin nomor 1, apabila Anda mengklik ikon Reward Saya maka akan muncul tampilan seperti gambar di bawah ini. Anda dapat melihat detail dari Reward meliputi cara penggunaan dan voucher cashback yang bisa ditukarkan.
+1. **My Rewards :** at point number 1, if you click on the My Rewards icon, a display like the image below will appear. You can see the details of the Rewards including how to use and cashback vouchers that can be redeemed.
 
    ![](/img/reward_1.4.png)
 
    ![](/img/reward_1.3.png)
-2. **Riwayat Poin :** Anda dapat melihat poin-poin yang didapatkan maupun yang sudah ditukarkan secara keseluruhan
-3. **Papan Peringkat :** Anda dapat melihat tabel papan peringkat yang berisi jumlah poin dan peringkat. Anda juga dapat melihat poin dan peringkat peserta lainnya 
-4. **Tukarkan Poin :** Anda dapat melihat beraneka ragam reward yang tersedia dengan jumlah poin yang dapat ditukarkan
+2. **Points History :** You can see the points earned and those that have been redeemed in total
+3. **Leaderboard :** You can see the leaderboard table that contains the number of points and rankings. You can also see the points and rankings of other participants 
+4. **Redeem Points :** You can see a variety of available rewards with the number of points that can be redeemed
