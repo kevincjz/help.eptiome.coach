@@ -10,9 +10,9 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Epitome Help Centre",
+  title: "LMS Help Center",
   tagline:
-    "Discover solutions and tips in our FAQ to enhance your journey with Epitome",
+    "Discover solutions and tips in the FAQ to enhance your journey with our LMS",
   favicon: "assets/favicon.ico",
 
   // Set the production url of your site here
@@ -139,16 +139,6 @@ const config = {
             sidebarId: "enterprise",
             position: "left",
             label: "Enterprise",
-          },
-          {
-            label: "Epitome Website",
-            position: "right",
-            href: "https://epitome.global",
-          },
-          {
-            label: "Login",
-            position: "right",
-            href: "https://epitome.global/login",
           },
           {
             type: "localeDropdown",
