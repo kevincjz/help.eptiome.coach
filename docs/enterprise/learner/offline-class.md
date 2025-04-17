@@ -2,11 +2,10 @@
 title: Offline Class
 sidebar_position: 24
 ---
-Untuk mengakses Offline Class yang biasanya berisi Jadwal Pertemuan Offline, Anda dapat Klik **Offline Class** pada Sesi di Konten Kursus dan tampilannya akan seperti berikut:
+To access the Offline Class which usually contains the Offline Meeting Schedule, you can click **Offline Class** in the Session in the Course Content and the display will be as follows:
 
 ![](/img/offline-class-skills_indo-1.png)
 
-Jika anda telah hadir pada Offline Class, maka tampilannya akan berubah menjadi seperti berikut ini:
-
+If you have attended the Offline Class, then the display will change to the following:
 
 ![](/img/offline-class-skills_indo-2.png)

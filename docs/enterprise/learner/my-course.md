@@ -4,174 +4,169 @@ sidebar_position: 3
 ---
 ![](/img/Enterprise-LMS-My-Course_1.1.png)
 
-Halaman ini akan terbagi menjadi 2 bagian yaitu Kursus Wajib dan Katalog.
+This page will be divided into 2 sections, namely Mandatory Courses and Catalog.
 
-## a. Kursus Wajib[​](https://help.stg.pintar.co.id/docs/enterprise/access-user-guide/#1-kursus-wajib)
+## a. Mandatory Courses[​](https://help.stg.pintar.co.id/docs/enterprise/access-user-guide/#1-mandatory-courses)
 
-Pada menu ini, Kursus yang akan muncul adalah kelas-kelas yang memang khusus di assigned melalui Admin yang menjalankan Program tersebut. Pada menu ini, Anda dapat langsung masuk ke tampilan kelas dengan cara klik "Mulai".
+In this menu, the courses that will appear are classes that are specifically assigned through the Admin who runs the Program. In this menu, you can directly enter the class view by clicking "Start".
 
 ![](/img/Enterprise-LMS-My-Course_1.2.png)
 
-Apabila Anda sudah masuk ke kelas, kemudian akan muncul tampilan kelas seperti gambar di bawah ini. Menu-menu yang terdapat pada tampilan kelas adalah Ringkasan, Konten Kursus, Nilai, Catatan, Forum, Recordings, dan Survey.
+If you have entered the class, then a class view will appear as shown in the picture below. The menus available in the class view are Summary, Course Content, Grades, Notes, Forum, Recordings, and Survey.
 
-### **1. Ringkasan**
+### **1. Summary**
 
 ![](/img/1.jpg)
 
-Pada bagian ini berisi informasi terkait deskripsi kelas dan informasi penyedia pembelajaran.
+This section contains information related to the class description and learning provider information.
 
-### 2. Konten Kursus
+### 2. Course Content
 
 ![](/img/2.png)
 
-1. Bagian ini berisi Topik-topik yang akan dipelajari yang terdiri dari materi pembelajaran dengan beberapa sesi. 
-2. Pada setiap sesi terdiri dari beberapa konten berupa Artikel, Dokumen, Video, dan Live Session. Serta berisi tugas-tugas berupa Diskusi, Quiz, Individual Assignment/Exam.
+1. This section contains the Topics to be learned which consist of learning materials with several sessions.
+2. Each session consists of several contents in the form of Articles, Documents, Videos, and Live Sessions. It also contains tasks in the form of Discussions, Quizzes, Individual Assignments/Exams.
 
-**Konten-konten di setiap Sesi :**
+**Contents in each Session:**
 
 **a. Video**
 
-Pada bagian ini berisi konten berupa Video. Anda dapat mengatur resolusi video yang ditampilkan, mengatur kecepatan video, dan membuka
-tampilan video dengan cara full screen.
+This section contains content in the form of Video. You can adjust the resolution of the displayed video, adjust the speed of the video, and open the video display in full screen.
 
 * **Resolution**
 
-  Fitur ini terdapat pada pojok kanan bawah video yang berguna untuk mengatur jenis resolusi yang akan digunakkan sesuai dengan yang Anda inginkan.
+  This feature is located in the bottom right corner of the video which is useful for setting the type of resolution to be used according to what you want.
 
 ![](/img/2.2.png)
 
-* **Kecepatan Video**
+* **Video Speed**
 
-  Fitur ini terdapat pada pojok kanan bawah video yang berguna untuk settingan kecepatan Video. Anda dapat mempercepat maupun memperlambat kecepatan video dengan fungsi fitur ini.
+  This feature is located in the bottom right corner of the video which is useful for setting the speed of the Video. You can speed up or slow down the video speed with this feature.
 
 ![](/img/2.3.png)
 
 * **Full Screen**
 
-  Fitur ini terdapat pada pojok kanan bawah video yang berguna untuk memperbesar layar video. Anda dapat lebih jelas melihat video dengan fungsi fitur ini.
+  This feature is located in the bottom right corner of the video which is useful for enlarging the video screen. You can see the video more clearly with this feature.
 
 ![](/img/2.4.png)
 
- Pada konten Video ini juga terdapat menu Catatan dan Komentar.
+ In this Video content, there are also Notes and Comments menus.
 
-* **Catatan** 
+* **Notes** 
 
 ![](/img/2.5.png)
 
-Fitur Catatan ini terdapat pada konten Video dan Dokumen. Setiap LMS peserta
-mempunyai fitur ini yang berguna untuk membantu Anda mencatat hal-hal yang
-penting saat sedang melakukan pemutaran video agar lebih mudah untuk dibaca
-kembali dan dapat tersimpan rapi.
+This Notes feature is available in Video and Document content. Every LMS participant has this feature which is useful to help you note important things while playing the video so it is easier to read back and can be neatly stored.
 
 ![](/img/2.6.png)
 
-1. Tambah Catatan : Anda dapat menambahkan catatan penting pada kolom ini. Anda dapat menambahkan catatan sebanyak yang diinginkan
-2. Edit dan Delete Notes : Anda dapat mengedit dan menghapus catatan yang sudah disimpan. Dalam fitur notes ini, hanya diperuntukkan dan dapat dilihat oleh Peserta itu sendiri, tidak akan bisa terlihat oleh Peserta lainnya
-3. Jumlah Notes : Pada poin nomor 3,  Anda dapat melihat jumlah catatan yang telah di input
-4. Durasi Notes : Pada poin nomor 4, Anda dapat melihat durasi waktu catatan dirilis
+1. Add Notes: You can add important notes in this column. You can add as many notes as you want
+2. Edit and Delete Notes: You can edit and delete saved notes. In this notes feature, it is only intended and can be seen by the Participant himself, it will not be visible to other Participants
+3. Number of Notes: In point number 3, you can see the number of notes that have been input
+4. Duration of Notes: In point number 4, you can see the duration of the note release
 
-* **Komentar**
+* **Comments**
 
-  Berbeda dengan fitur notes yang hanya untuk tiap masing-masing user, dalam fitur ini komentar digunakan untuk seluruh user mengomentari Video yang ditampilkan dalam sesi belajar. Seperti layaknya menulis komentar di kanal media social, Anda dapat saling mengomentari Video tersebut. Anda juga dapat memberikan like dan komen pada postingan student di kolom komentar.
+  Unlike the notes feature which is only for each user, in this feature comments are used for all users to comment on the Video displayed in the learning session. Just like writing comments on social media channels, you can comment on the Video. You can also like and comment on student posts in the comment column.
 
-##### Cara membuat Komentar :
+##### How to make a Comment:
 
-1. Anda dapat membuat komentar pada kolom Tambahan Komentar
+1. You can make comments in the Additional Comments column
 
-2. Klik button Kirim
+2. Click the Send button
 
 ![](/img/2.7.png)
 
-3. Komentar Anda akan muncul pada kolom komentar seperti gambar di bawah ini
+3. Your comment will appear in the comment column as shown below
 
 ![](/img/2.8.png)
 
 **b. Quiz**
 
-Pada bagian ini, Anda diwajibkan untuk mengerjakan Quiz. Pada tampilan Quiz ini akan terdiri dari jumlah pertanyaan, durasi pelaksanaan, jumlah pengulangan, dan nilai minimum.
+In this section, you are required to take the Quiz. This Quiz view will consist of the number of questions, duration of implementation, number of repetitions, and minimum score.
 
-**Cara menjawab Quiz :**
+**How to answer the Quiz:**
 
-1. Klik button Mulai Quiz
+1. Click the Start Quiz button
 
 ![](/img/2.9.png)
 
-2. Kemudian akan muncul tampilan Quiz seperti berikut
+2. Then a Quiz view will appear as follows
 
 ![](/img/2.10.png)
 
-* Dapat dilihat di pojok kanan atas yang berwarna Hijau menunjukan durasi pengerjaan yang telah diberikan oleh pengajar untuk peserta mengerjakan quiz tersebut.
-* Pada pojok kiri bawah terdapat tombol Back. Anda dapat mengecek ulang jawaban pada soal sebelumnya.
-* Pada pojok kanan bawah terdapat tombol Next yang dapat digunakan untuk melihat soal selanjutnya.
+* The Green color in the top right corner indicates the duration given by the teacher for participants to take the quiz.
+* In the bottom left corner, there is a Back button. You can recheck the answer to the previous question.
+* In the bottom right corner, there is a Next button that can be used to see the next question.
 
-3. Apabila Anda sudah menjawab semua pertanyaan pada Quiz tersebut, kemudian akan muncul tampilan seperti di gambar. 
+3. If you have answered all the questions in the Quiz, then a view will appear as in the picture. 
 
 ![](/img/2.11.png)
 
-Pada bagian pojok kiri bawah, Anda dapat kembali untuk merubah jawaban jika ada yang kurang tepat sebelum submit. Kemudian jika sudah dipastikan benar dan yakin dengan jawaban yang telah diisi, maka Anda dapat klik tombol Submit.
+In the bottom left corner, you can go back to change the answer if there is something less precise before submitting. Then if it is confirmed correct and confident with the answer that has been filled in, then you can click the Submit button.
 
-4. Setelah klik submit, akan muncul pop up final submission seperti gambar. Pada bagian ini Anda diharapkan untuk dapat memastikan kembali apakah jawaban sudah benar sebelum submit. Jika sudah yakin, kemudian klik button Kirim.
+4. After clicking submit, a final submission pop up will appear as shown. In this section, you are expected to be able to reconfirm whether the answer is correct before submitting. If you are sure, then click the Send button.
 
 ![](/img/2.12.png)
 
-5. Setelah klik Kirim, maka pada tampilan Quiz akan muncul nilai yang diperoleh.
+5. After clicking Send, then the Quiz view will show the score obtained.
 
 ![](/img/2.13.png)
 
-6. Apabila pada tampilan Quiz Anda terdapat button Ulangi setelah melakukan submit jawaban, maka Anda masih dapat mengulangi untuk menjawab Quiz tersebut sampai batas pengulangan *(perhatikan gambar)*
+6. If there is a Repeat button on your Quiz view after submitting the answer, then you can still repeat to answer the Quiz up to the repetition limit *(see picture)*
 
 ![](/img/2.14.png)
 
-7. Kemudian Anda juga dapat memeriksa jawaban dengan klik **Periksa Jawaban.** Namun, apabila Anda sudah klik Periksa Jawaban saat Sisa Pengulangan masih tersedia, maka Sisa Pengulangan akan otomatis terhapus atau 0.
+7. Then you can also check the answer by clicking **Check Answer**. However, if you have clicked Check Answer when the Remaining Repetition is still available, then the Remaining Repetition will automatically be deleted or 0.
 
-**NOTE :** Setiap Anda klik “take quiz” atau “retake quiz”, maka jumlah attempt akan otomatis berkurang. Meskipun Anda tidak menyelesaikan seluruh soal quiz atau keluar dari halaman quiz tanpa menyelesaikan, jumlah attempt akan tetap berkurang.
+**NOTE:** Every time you click “take quiz” or “retake quiz”, the number of attempts will automatically decrease. Even if you do not complete all the quiz questions or leave the quiz page without completing, the number of attempts will still decrease.
 
  **c. Live Session**
 
-Pada bagian Live Session ini, seluruh peserta kelas akan melaksanakan sesi langsung dengan Pengajar menggunakan Jitsi. Pelaksanaan Live Session sesuai dengan jadwal kelas yang sudah ditentukan. 
+In this Live Session section, all class participants will conduct a live session with the Teacher using Jitsi. The implementation of the Live Session is in accordance with the predetermined class schedule.
 
-**Cara join ke Live Session :**
+**How to join the Live Session:**
 
-1. Pilih menu Live Session
+1. Select the Live Session menu
 
-2. Klik button Join
+2. Click the Join button
 
 ![](/img/2.15.png)
 
-3. Apabila Anda sudah join kedalam room Live Session, maka akan diarahkan ke tampilan Jitsi seperti gambar di bawah ini
+3. If you have joined the Live Session room, you will be directed to the Jitsi view as shown below
 
 ![](/img/2.16.png)
 
-4. Anda sudah dapat melaksanakan Live Session
+4. You can now conduct the Live Session
 
  **d. Document**
 
-Pada bagian ini,berisi materi berupa dokumen seperti PDF/PPT. Materi tersebut dapat dilihat secara full screen dan bisa didownload apabila Anda ingin membaca materi
-pelatihan tanpa membuka LMS. Dalam fitur dokumen ini juga mempunyai bagian Catatan dan Komen seperti pada konten Video sebelumnya.
+In this section, it contains material in the form of documents such as PDF/PPT. The material can be viewed in full screen and can be downloaded if you want to read the training material without opening the LMS. This document feature also has a Notes and Comments section like the previous Video content.
 
-* Materi berupa PDF
+* Material in the form of PDF
 
 ![](/img/my-course-17.png)
 
 ![](/img/my-course-18.png)
 
-* Materi berupa PPT
+* Material in the form of PPT
 
 ![](/img/my-course-19.png)
 
 ![](/img/my-course-20.png)
 
-**e. Diskusi**
+**e. Discussion**
 
-Pada bagian ini, terdapat pertanyaan diskusi dari Pengajar yang dapat dikerjakan dan dijawab.
+In this section, there are discussion questions from the Teacher that can be worked on and answered.
 
 ![](/img/my-course-21.jpg)
 
-1. Berisi soal diskusi
-2. Terdapat Due Date/Tenggat Waktu untuk menjawab diskusi oleh students
-3. Anda dapat memberikan jawaban dari pertanyaan diskusi tersebut pada kolom “Add your answer”
-4. Apabila telah dijawab, anda dapat submit jawaban dengan klik button “Post”
-5. Jawaban yang sudah disubmit, akan muncul pada menu Diskusi seperti gambar di bawah ini
+1. Contains discussion questions
+2. There is a Due Date/Deadline for students to answer the discussion
+3. You can provide an answer to the discussion question in the “Add your answer” column
+4. If it has been answered, you can submit the answer by clicking the “Post” button
+5. The submitted answer will appear on the Discussion menu as shown below
 
 ![](/img/my-course-22.jpg)
 
@@ -179,49 +174,49 @@ Pada bagian ini, terdapat pertanyaan diskusi dari Pengajar yang dapat dikerjakan
 
 ![](/img/my-course-23.jpg)
 
-Bagian ini akan menampilkan Assignment/Tugas yang harus dikerjakan. Pada bagian ini akan menampilkan soal Tugas beserta Start Date, Due Date, dan Status Pengerjaan.
+This section will display the Assignment/Task that must be done. This section will display the Task question along with the Start Date, Due Date, and Work Status.
 
 ![](/img/my-course-24.jpg)
 
 ![](/img/my-course-25.jpg)
 
-**Cara submit jawaban Tugas :**
+**How to submit Task answers:**
 
-1. Anda dapat menjawab soal Tugas berupa Teks dengan membuat jawabannya pada kolom “Tambahkan Jawaban”
+1. You can answer the Task question in the form of Text by creating the answer in the “Add Answer” column
 
-2. Anda juga dapat menjawab soal Tugas dengan melampirkan dokumen pada kolom “Unggah Dokumen" 
+2. You can also answer the Task question by attaching a document in the “Upload Document" column
 
-3. Apabila sudah dijawab, kemudian klik button kirim                                   
+3. If it has been answered, then click the send button                                   
 
-4. Jawaban yang sudah disubmit dan dinilai, akan muncul pada tampilan Tugas seperti gambar di bawah ini                       
+4. The submitted and graded answer will appear on the Task view as shown below                       
 
 ![](/img/my-course-26.jpg)
 
-5. Selama batas waktu belum berakhir dan belum dinilai oleh Pengajar, Anda masih dapat melakukan perubahan jawaban dengan cara klik button “Ubah Jawaban”
+5. As long as the deadline has not ended and has not been graded by the Teacher, you can still change the answer by clicking the “Change Answer” button
 
 ![](/img/my-course-27.jpg)
 
-### **3. Nilai**
+### **3. Grades**
 
 ![](/img/my-course-28.png)
 
-Pada menu Nilai akan menampilkan nilai akhir, peringkat dan komponen nilai. 
+The Grades menu will display the final grade, ranking, and grade components.
 
 ![](/img/my-course-29.png)
 
-Anda juga dapat melihat detail peringkat teman sekelas dengan cara klik “Lihat Detail”
+You can also see the detailed ranking of classmates by clicking “View Details”
 
 ![](/img/my-course-30.png)
 
-Anda juga dapat memfilter berdasarkan nama dengan cara klik “Cari berdasarkan nama”
+You can also filter by name by clicking “Search by name”
 
 ![](/img/my-course-31.png)
 
-### **4. Catatan**
+### **4. Notes**
 
 ![](/img/my-course-32.png)
 
-Catatan yang ditampilkan pada kolom ini merupakan catatan yang sudah Anda catat pada konten Video atau Dokumen. Anda dapat membaca dan mempelajari kembali catatan yang sudah Anda buat *(seperti gambar).*
+The notes displayed in this column are the notes that you have noted in the Video or Document content. You can read and relearn the notes you have made *(like the picture).*
 
 ![](/img/my-course-33.png)
 
@@ -229,28 +224,27 @@ Catatan yang ditampilkan pada kolom ini merupakan catatan yang sudah Anda catat 
 
 ![](/img/my-course-34.png)
 
-Pada menu ini, berfungsi sebagai menu untuk Pengajar dan Peserta dapat berdiskusi mengenai kelas tersebut. 
+In this menu, it serves as a menu for Teachers and Participants to discuss the class.
 
-**Cara untuk membuat Forum :**
+**How to create a Forum:**
 
-1. Anda dapat kilk + **Add Thread** pada pojok kanan atas
+1. You can click + **Add Thread** in the top right corner
 
 ![](/img/my-course-35.jpg)
 
-2. Kemudian akan muncul tampilan seperti gambar
+2. Then a view will appear as shown
 
 ![](/img/my-course-36.jpg)
 
-3. Tuliskan Judul dan Deskripsi
+3. Write the Title and Description
 
-4. Kemudian klik tombol Kirim pada pojok kanan bawah
+4. Then click the Send button in the bottom right corner
 
-Apabila sudah klik kirim, maka Thread/Utas yang Anda buat akan muncul pada menu forum
-seperti gambar di bawah ini.
+After clicking send, the Thread/Thread you created will appear on the forum menu like the picture below.
 
 ![](/img/my-course-37.jpg)
 
-Thread/Utas yang Anda buat dapat dikomentari oleh teman sekelas dan Pengajar begitupun sebaliknya.
+The Thread/Thread you created can be commented on by classmates and Teachers and vice versa.
 
 ![](/img/my-course-38.png)
 
@@ -258,15 +252,14 @@ Thread/Utas yang Anda buat dapat dikomentari oleh teman sekelas dan Pengajar beg
 
 ![](/img/my-course-39.jpg)
 
-Pada bagian ini, Anda dapat melihat Recordings/Rekaman pada saat Live Session. Sehingga
-Anda dapat mempelajari kembali materi yang disampaikan oleh Pengajar pada saat Live Session. 
+In this section, you can see the Recordings/Recordings during the Live Session. So you can relearn the material delivered by the Teacher during the Live Session.
 
-Anda dapat mendownload Recordings tersebut dengan cara klik tombol Download.
+You can download the Recordings by clicking the Download button.
 
 ![](/img/my-course-40.jpg)
 
-## **b. Katalog**[​](https://help.stg.pintar.co.id/docs/enterprise/access-user-guide/#2-katalog)
+## **b. Catalog**[​](https://help.stg.pintar.co.id/docs/enterprise/access-user-guide/#2-catalog)
 
-[](https://help.stg.pintar.co.id/docs/enterprise/access-user-guide/#2-katalog)Bagian ini berisikan jenis – jenis kursus atau kelas yang sedang ditayangkan.
+[](https://help.stg.pintar.co.id/docs/enterprise/access-user-guide/#2-catalog)This section contains the types of courses or classes that are currently being broadcast.
 
 ![](/img/my-course-41.png)

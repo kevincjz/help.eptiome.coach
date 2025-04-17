@@ -7,107 +7,107 @@ sidebar_position: 1
 
 ![](/img/Enterprise-LMS-Login_1.3.png)
 
-Sebelum login ke LMS, pastikan bahwa Anda sudah menerima Email untuk verifikasi penggantian Password baru yang akan digunakkan. Kemudian Anda dapat login menggunakan Email dan Password tersebut.
+Before logging into the LMS, make sure that you have received an Email for verification of the new Password replacement that will be used. Then you can log in using that Email and Password.
 
 ![](/img/Enterprise-LMS-Login_1.1.png)
 
-Untuk Login ke LMS, lakukan cara berikut:
+To Login to the LMS, follow these steps:
 
-1. Masuk ke URL [https://enterprise.pintar.co/en/sign-in](https://enterprise.pintar.co/en/sign-in)
-2. Masukan email pada kolom Email.
-3. Masukan kata sandi pada kolom Password.
-4. Klik tombol Login.
+1. Go to the URL [https://enterprise.pintar.co/en/sign-in](https://enterprise.pintar.co/en/sign-in)
+2. Enter your email in the Email column.
+3. Enter your password in the Password column.
+4. Click the Login button.
 
 ![](/img/Enterprise-LMS-Login_1.2.png)
 
-Setelah Anda berhasil untuk Login, maka akan muncul tampilan Dashboard seperti ini.
+After you have successfully logged in, the Dashboard will appear like this.
 
 ![](/img/Enterprise-LMS-Login_1.4.png)
 
-## 2. Menu Dashboard
+## 2. Dashboard Menu
 
-Pada bagian menu Dashboard ini akan berisi sub menu Progress, Durasi Belajar, dan Aktivitas.
+This Dashboard menu section will contain sub-menus for Progress, Study Duration, and Activities.
 
 ![](/img/dashboard.jpg)
 
 ###### **1. Progress**
 
-Bagian ini menunjukkan progress dari setiap kelas yang sudah dikerjakan, yang sedang dikerjakan, yang belum dimulai, yang kadaluwarsa, dan yang masih terkunci.
+This section shows the progress of each class that has been worked on, is being worked on, has not been started, has expired, and is still locked.
 
-##### **2. Durasi Belajar**
+##### **2. Study Duration**
 
-Bagian ini menunjukkan total durasi belajar yang sudah dilakukan pada kelas yang diikuti.
+This section shows the total study duration that has been done in the classes taken.
 
-##### **3. Aktivitas**
+##### **3. Activities**
 
-Bagian ini menunjukkan progress aktivitas kelas yang sedang dikerjakan dan riwayat kelas yang sudah dikerjakan
+This section shows the progress of class activities being worked on and the history of classes that have been completed.
 
-a. Aktivitas Kursus
+a. Course Activities
 
-Bagian ini akan menampilkan kelas yang sedang atau akan dikerjakan.
+This section will display classes that are currently or will be worked on.
 
 ![](/img/Enterprise-LMS-Dashboard_1.2.png)
 
-1. Judul Kursus : Bagian ini merupakan judul - judul kelas yang sedang dikerjakan. Anda dapat klik judulnya dan akan langsung diarahkan kedalam isi kursus tersebut.
-2. Tipe : Bagian ini merupakan tipe dari pengerjaan kursus tersebut.
-3. Progress : Bagian ini menunjukkan presentase progress dari kursus yang sedang dikerjakan
+1. Course Title: This section is the titles of the classes being worked on. You can click on the title and will be directed to the content of the course.
+2. Type: This section is the type of the course work.
+3. Progress: This section shows the percentage progress of the course being worked on.
 
-b. Riwayat Kursus
+b. Course History
 
-Bagian ini akan menampilkan kelas yang sudah dikerjakan
+This section will display classes that have been completed.
 
 ![](/img/Enterprise-LMS-Dashboard_1.3.png)
 
-1. Judul Kursus : Bagian ini merupakan judul - judul kelas yang sudah dikerjakan. Anda dapat klik judulnya dan akan langsung diarahkan kedalam isi kursus tersebut.
-2. Tipe : Bagian ini merupakan tipe dari pengerjaan kursus tersebut.
-3. Status : Bagian ini menunjukkan status dari pengerjaan kursus tersebut.
+1. Course Title: This section is the titles of the classes that have been completed. You can click on the title and will be directed to the content of the course.
+2. Type: This section is the type of the course work.
+3. Status: This section shows the status of the course work.
 
 ## 3. Edit Profile
 
-Dalam Halaman “Edit Profile” Anda dapat mengisi data diri/biodata, keterampilan dan skill yang dapat diinformasikan untuk kebutuhan.
+In the "Edit Profile" page, you can fill in personal data/biography, skills and skills that can be informed for needs.
 
-#### Cara mengedit Profile :
+#### How to edit Profile:
 
-1. Klik ikon profile pada pojok kanan atas seperti tampilan berikut
+1. Click the profile icon in the top right corner as shown below
 
    ![](/img/Enterprise-LMS-Edit-Profile_1.1.png)
 
-2. Setelah klik ikon Profile, maka akan muncul pop up seperti gambar di bawah ini kemudian klik button Lihat
+2. After clicking the Profile icon, a pop up will appear as shown below, then click the View button
 
    ![](/img/Enterprise-LMS-Edit-Profile_1.2.png)
 
-3. Setelah klik button Lihat, maka akan muncul tampilan seperti gambar. Silahkan lengkapi Nomor Hp dan klik setuju pada kotak Terms & Conditions, kemudian klik Continue
+3. After clicking the View button, a display will appear as shown. Please complete the Phone Number and click agree on the Terms & Conditions box, then click Continue
 
    ![](/img/profile.jpg)
 
-4. Kemudian akan muncul tampilan Profile seperti gambar berikut. Anda dapat melengkapi informasi pribadi pada menu Profile ini
+4. Then a Profile display will appear as shown below. You can complete personal information in this Profile menu
 
    ![](/img/profile-2.jpg)
 
-5. Lengkapi kolom Ringkasan yang berisi mengenai diri Anda dan pekerjaan Anda
+5. Complete the Summary column which contains information about you and your job
 
    ![](/img/profile-3.jpg)
 
-6. Lengkapi kolom Informasi Pribadi dan tambahkan foto Anda
+6. Complete the Personal Information column and add your photo
 
    ![](/img/profile-4.jpg)
 
-7. Tambahkan Pendidikan dengan cara klik button +Tambahkan
+7. Add Education by clicking the +Add button
 
    ![](/img/profile-5.jpg)
 
-8. Tambahkan Pengalaman Kerja dengan cara klik button +Tambahkan
+8. Add Work Experience by clicking the +Add button
 
    ![](/img/profile-6.jpg)
 
-9. Tambahkan Keahlian dengan cara klik button +Tambahkan
+9. Add Skills by clicking the +Add button
 
    ![](/img/profile-7.jpg)
 
-10. Tambahkan Media Sosial dan Portofolio dengan cara klik button +Tambahkan
+10. Add Social Media and Portfolio by clicking the +Add button
 
     ![](/img/profile-8.jpg)
 
-11. Apabila profile Anda sudah dilengkapi, Anda dapat mengunduhnya berupa CV dengan cara klik “Unduh CV Anda”
+11. If your profile is complete, you can download it as a CV by clicking "Download Your CV"
 
     ![](/img/profile-9.jpg)

@@ -2,14 +2,14 @@
 title: Leaderboard
 sidebar_position: 4
 ---
-Pada bagian ini, Anda dapat melihat tabel Leaderboard/Papan Peringkat yang berisi jumlah poin dan peringkat. 
+In this section, you can view the Leaderboard table which contains the number of points and rankings.
 
-1. Untuk menampilkan nama peserta lain secara keseluruhan, Anda dapat klik "Lihat semua" pada pojok kanan atas. 
+1. To display the names of other participants in total, you can click "View all" in the top right corner.
 
    ![](/img/leaderboard.jpg)
-2. Kemudian akan muncul tampilan Papan Peringkat secara keseluruhan
+2. Then the overall Leaderboard view will appear
 
    ![](/img/leaderboard-1.jpg)
-3. Anda juga dapat melihat poin dan peringkat peserta lainnya dengan mencari berdasarkan nama
+3. You can also view the points and rankings of other participants by searching by name
 
 ![](/img/leaderboard-2.jpg)
