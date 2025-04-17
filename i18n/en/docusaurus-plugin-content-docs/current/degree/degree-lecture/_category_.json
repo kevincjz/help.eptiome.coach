@@ -1,0 +1,10 @@
+{
+  "label": "Degree Lecture",
+  "position": 3,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Documentation For Degree Lecture Sides"
+  }
+}

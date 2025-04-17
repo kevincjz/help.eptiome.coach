@@ -1,0 +1,10 @@
+{
+  "label": "Learner",
+  "position": 3,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Documentation Learner Sides"
+  }
+}
